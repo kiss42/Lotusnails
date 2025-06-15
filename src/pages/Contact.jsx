@@ -1,4 +1,3 @@
-// pages/Contact.jsx
 import React from 'react'
 
 const Contact = () => {
